@@ -1,0 +1,14 @@
+{
+    "name": "Queue",
+    "alias": "queue",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Jano\\Modules\\Queue\\Providers\\ModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

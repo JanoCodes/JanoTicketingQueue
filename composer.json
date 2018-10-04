@@ -1,0 +1,25 @@
+{
+    "name": "jano-may-ball/queue",
+    "description": "",
+    "authors": [
+        {
+            "name": "Andrew Ying",
+            "email": "hi@andrewying.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jano\\Modules\\Queue\\Providers\\ModuleServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Jano\\Modules\\Queue\\": "src/"
+        }
+    }
+}
