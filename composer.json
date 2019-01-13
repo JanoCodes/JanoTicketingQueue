@@ -2,6 +2,7 @@
     "name": "jano/queue",
     "description": "",
     "type": "jano-module",
+    "license": "AGPL-3.0",
     "authors": [
         {
             "name": "Andrew Ying",
