@@ -1,6 +1,7 @@
 {
-    "name": "jano-may-ball/queue",
+    "name": "jano/queue",
     "description": "",
+    "type": "jano-module",
     "authors": [
         {
             "name": "Andrew Ying",
